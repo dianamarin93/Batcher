@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Batcher": {
+      "commandName": "Project",
+      "commandLineArgs": "-trim -p \"C:\\Users\\Diana\\Desktop\\to rename\" --trim-start 4"
+    }
+  }
+}
